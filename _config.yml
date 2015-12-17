@@ -1,0 +1,28 @@
+name: theskyeveryday
+favicon: null
+layout_spectrum: 0.2955728843808174
+typography_spectrum: 0.9622051001060754
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.43572080438025296
+  lightness: 0.08339249715209007
+  saturation: 0.8938499095384032
+  rhythmicContrast: 0.24569987272843719
+purpose: []
